@@ -31,9 +31,12 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	page-break-inside: avoid;
 }
 ol, ul {
 	list-style: inside;
+	page-break-inside: avoid;
+	page-break-before: avoid;
 }
 blockquote, q {
 	quotes: none;
