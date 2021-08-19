@@ -3,7 +3,7 @@ layout: cv
 title: Jared Wogan's CV
 ---
 # Jared Wogan
-Student at Brock University, Research Assistant
+Student and Research Assistant at Brock University
 
 <div id="webaddress">
 <a href="mailto:jared.wogan@gmail.com">Jared.Wogan@gmail.com</a>
@@ -11,81 +11,108 @@ Student at Brock University, Research Assistant
 </div>
 
 
-## Currently
+## Research \ Interests
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I am a student in my final year at Brock University, currently finishing a Bachelor's of Science degree,
+majoring in Physics, with a minor in Mathematics. I am passionate about theories of gravity and causality
+within the theory of general relativity, and would like to use the knowledge and skills learned while
+completing this degree to explore these interests further. In particular, I am interested in exploring
+theories of quantum gravity as well as causality.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Welland Centennial Secondary School, Ontario__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2017 - December 2018`
+__University of Guelph, Ontario__
+- Bachelor of Science (Honours) - Physics
+- Average of 73.7%
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`January 2020 - Present`
+__Brock University, Ontario__
+- Bachelor of Science (Honours) - Physics
+- Average of 89.0%
 
 
+## Awards and Honours
 
-## Awards
+`2021`
+Match of Minds, Brock University, Ontario
+- Research Grant ($5,000)
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+Entrance Scholarship, University of Guelph, Ontario
+- For outstanding admissions average ($7,000)
 
-Associate, *French Academy of Science*, Paris, France
+`2017`
+Mathematics Scholarship, Welland Centennial Secondary School, Ontario
+- Presented to the student with the highest GPA in grade 12 Mathematics ($150)
 
+`2017`
+Physics Scholarship, Welland Centennial Secondary School, Ontario
+- Presented to the student with the highest GPA in grade 12 Physics ($150)
 
 
 ## Publications
+WIP
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Research Experiences
+`April 2021 - September 2021`
+__Match of Minds Research Program__, Brock University
+- Mentored by Professor Barak Shoshany
+- Studying Time Travel Paradoxes and Causality
+    - Created a simulation of paradoxes within Mathematica
+    - Updated existing paradox model to use temperature instead of colours for the particles
+    - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Talks
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Posters
 
 
+## Skills
+__Programming Languages:__ Python, C, C++, Visual Basic, Java, Javascript, LaTeX, Physica
+__Operating Systems:__ Mac OS, Linux, Windows
+__Software:__ Git, Mathematica, Maple, Extrema, GNU Octave
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+## Outreach
+
+
+## Extracurricular Activities
+__Computers__
+- Regularly building and maintaining computers
+
+__Programming__
+- Developed a Discord bot for use in my personal Discord
+- Creating fractals using Python
+
+## Career
+
+`April 2021 - September 2021`
+__Brock University__, Ontario
+- Research Assistant (Match of Minds Research Program)
+
+`2020 - Present`
+__Private Tutor__, Ontario
+
+`2019 - Present`
+__McDonalds__, Ontario
+- Crew
+
+`May 2018 - September 2018`
+__Canadian Niagara Power__, Ontario
+- IT intern, specializing in computer maintenance
+
+`2015 - 2017`
+__Hard Rock Cafe__, Ontario
+- Line Cook
+
+
+
+
 
 
