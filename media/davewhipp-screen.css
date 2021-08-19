@@ -22,7 +22,8 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	background-color: #2b2b2b;
+	color: #ddd;
+	background-color: #444;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -136,7 +137,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #00549b;
+	color: #007bff;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -146,7 +147,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	color:  #038bfc;
+	color:  #007bff;
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
@@ -167,7 +168,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #038bfc;
+	color: #007bff;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
