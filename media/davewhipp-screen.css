@@ -93,11 +93,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -135,7 +135,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #00549b;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -145,6 +145,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
+	color:  #038bfc;
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
@@ -165,7 +166,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: #038bfc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
