@@ -68,6 +68,8 @@ __Physics Scholarship, Welland Centennial Secondary School__, Ontario
 ## Publications
 
 __WIP__
+1 - Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime __WIP__
+2 - Mathemtica Simulation of Time Travel Paradoxes __WIP__
 
 
 ## Research Experiences
@@ -79,6 +81,11 @@ __Match of Minds__, Brock University
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
+
+`September 2021 - April 2022`
+__Undergraduate Thesis__, Brock University
+- Mentored by Professor Barak Shoshany
+- WIP
 
 
 ## Talks
@@ -111,7 +118,7 @@ __Languages:__ English, French
 __Soft Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organization, Planning, Leadership, Curious
 
 
-## Outreach
+## Extracurricular Activities
 
 `2020`
 __Independant Peer Tutor__, Brock University
@@ -129,7 +136,7 @@ __Jack.org__, University of Guelph
 - Volunteered and participated in regular events throughtout school terms
 
 
-## Extracurricular Activities
+## Hobbies
 
 __Computers__
 - Regularly building and maintaining computers
@@ -141,10 +148,10 @@ __Programming__
 
 __Music__
 - Learning instruments, starting with piano
-- Occasional mixing down in FL Studio
+- Occasional mixing done in FL Studio
 
 
-## Career
+## Work Experience
 
 `April 2021 - September 2021`
 __Brock University__, Ontario
@@ -152,7 +159,7 @@ __Brock University__, Ontario
 
 `2020 - Present`
 __Private Tutor__, Ontario
-- Highschool mathematics
+- Highschool Mathematics
 
 `2019 - Present`
 __McDonalds__, Ontario
@@ -160,7 +167,9 @@ __McDonalds__, Ontario
 
 `May 2018 - September 2018`
 __Canadian Niagara Power__, Ontario
-- IT intern, specializing in computer maintenance and small computing projects in Visual Basic
+- IT intern
+- Computer maintenance and deployment
+- Computing projects in Visual Basic
 
 `2015 - 2017`
 __Hard Rock Cafe__, Ontario
