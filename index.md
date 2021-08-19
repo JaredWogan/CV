@@ -69,7 +69,7 @@ __WIP__
 
 ## Research Experiences
 `April 2021 - September 2021`
-__Match of Minds Research Program__, Brock University, Ontario
+__Match of Minds__, Brock University
 - Mentored by Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
