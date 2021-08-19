@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jared Wogan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jared Wogan
+Student at Brock University, Research Assistant
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jared.wogan@gmail.com">Jared.Wogan@gmail.com</a>
+| <a href="https://jaredwogan.ca">My Website</a>
 </div>
 
 
