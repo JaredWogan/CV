@@ -32,8 +32,9 @@ __University of Guelph__, Ontario
 - Bachelor of Science (Honours) - Physics
 - Average of 73.7%
 
-`2013 - 2017`
+`September 2013 - June 2017`
 __Welland Centennial Secondary School__, Ontario
+- French Immersion
 - Grade 12 Average of 99.5%
 
 
@@ -49,7 +50,7 @@ __Deans Honours List, Brock University__, Ontario
 
 `2017`
 __Entrance Scholarship, University of Guelph__, Ontario
-- For outstanding admissions average ($7,000)
+- Outstanding admissions average ($7,000)
 
 `2017`
 __University of Waterloo, Euclid Test__, Ontario
@@ -94,7 +95,7 @@ __WIP__
 
 __Physics:__ Classical Mechanics, Electromagnetism, Quantum Mechanics, Statistical Mechanics and Thermal Physics, Optics, General & Special Relativity
 
-__Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, Complex & Real Analysis
+__Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, Complex & Real Analysis, Differential Geometry
 
 
 ## Skills
@@ -107,7 +108,7 @@ __Software:__ Git, Mathematica, Maple, Extrema, GNU Octave
 
 __Languages:__ English, French
 
-__Soft Skills:__ Passionate, Collaborative, Time Management, Organization, Planning, Leadership, Curious
+__Soft Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organization, Planning, Leadership, Curious
 
 
 ## Outreach
@@ -123,9 +124,9 @@ __Physics Club__, University of Guelph
 - Telescope observation night
 
 `2017 - 2018`
-__Jacl.org__, University of Guelph
-- Volunteered and participated in regular events throughtout school terms
+__Jack.org__, University of Guelph
 - Mental health awareness movement
+- Volunteered and participated in regular events throughtout school terms
 
 
 ## Extracurricular Activities
@@ -134,8 +135,14 @@ __Computers__
 - Regularly building and maintaining computers
 
 __Programming__
-- Developed a Discord bot for use in my personal Discord
-- Creating fractals using Python
+- Passion Projects
+    - Developed a Discord bot for use in my personal Discord
+    - Creating fractals using Python
+
+__Music__
+- Learning instruments, starting with piano
+- Occasional mixing down in FL Studio
+
 
 ## Career
 
