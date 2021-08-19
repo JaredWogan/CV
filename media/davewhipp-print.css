@@ -136,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #00549b;
+	color: #007eed;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -148,7 +148,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #038bfc;
+	color: #007eed;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -161,14 +161,14 @@ a {
 }
 
 a:hover {
-	color:#ccc
+	color:#aaa
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #038bfc;
+	color: #007eed;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
@@ -179,7 +179,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e
+	color: #007eed
 }
 
 strong {
