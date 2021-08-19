@@ -35,7 +35,7 @@ Average of 73.7%
 `September 2013 - June 2017`
 __Welland Centennial Secondary School__, Ontario \
 French Immersion \
-Grade 12 Average of 99.5%
+Grade 12 Average of 94.3%
 
 
 ## Awards and Honours
@@ -53,6 +53,10 @@ __Entrance Scholarship, University of Guelph__, Ontario \
 Outstanding admissions average ($7,000)
 
 `2017`
+__Ontario Scholar__, Welland Centennial, Ontario \
+Obtained an overage of 80% or higher in any six Grade 12 courses
+
+`2017`
 __University of Waterloo, Euclid Test__, Ontario \
 School champion
 
@@ -63,6 +67,11 @@ Presented to the student with the highest GPA in grade 12 Mathematics ($150)
 `2017`
 __Physics Scholarship, Welland Centennial Secondary School__, Ontario \
 Presented to the student with the highest GPA in grade 12 Physics ($150)
+
+`2016`
+__University of Waterloo, Fermat Test__, Ontario \
+Certificate of Distinction for ranking top 25% of contestants
+
 
 
 ## Publications
