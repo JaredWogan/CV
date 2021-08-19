@@ -68,10 +68,12 @@ Presented to the student with the highest GPA in grade 12 Physics ($150)
 ## Publications
 
 `TBD`
-1 - Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime __WIP__
+__Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__
+- __WIP__
 
 `TBD`
-2 - Mathemtica Simulation of Time Travel Paradoxes __WIP__
+__Mathemtica Simulation of Time Travel Paradoxes__
+- __WIP__
 
 
 ## Research Experiences
@@ -79,7 +81,7 @@ Presented to the student with the highest GPA in grade 12 Physics ($150)
 `September 2021 - April 2022`
 __Undergraduate Thesis__, Brock University \
 Mentored by Professor Barak Shoshany
-- WIP
+-__WIP__
 
 `April 2021 - September 2021`
 __Match of Minds__, Brock University \
