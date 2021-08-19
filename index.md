@@ -23,45 +23,45 @@ theories of quantum gravity as well as causality.
 ## Education
 
 `January 2020 - Present`
-__Brock University__, Ontario
-Bachelor of Science (Honours) - Physics
+__Brock University__, Ontario \
+Bachelor of Science (Honours) - Physics \
 Average of 89.0%
 
 `September 2017 - December 2018`
-__University of Guelph__, Ontario
-Bachelor of Science (Honours) - Physics
+__University of Guelph__, Ontario \
+Bachelor of Science (Honours) - Physics \
 Average of 73.7%
 
 `September 2013 - June 2017`
-__Welland Centennial Secondary School__, Ontario
-French Immersion
+__Welland Centennial Secondary School__, Ontario \
+French Immersion \
 Grade 12 Average of 99.5%
 
 
 ## Awards and Honours
 
 `2021`
-__Match of Minds, Brock University__, Ontario
+__Match of Minds, Brock University__, Ontario \
 Research Grant ($5,000)
 
 `2020 - 2021`
-__Deans Honours List, Brock University__, Ontario
+__Deans Honours List, Brock University__, Ontario \
 Average of 80%+ for academic year of 2020 - 2021
 
 `2017`
-__Entrance Scholarship, University of Guelph__, Ontario
+__Entrance Scholarship, University of Guelph__, Ontario \
 Outstanding admissions average ($7,000)
 
 `2017`
-__University of Waterloo, Euclid Test__, Ontario
+__University of Waterloo, Euclid Test__, Ontario \
 School champion
 
 `2017`
-__Mathematics Scholarship, Welland Centennial Secondary School__, Ontario
+__Mathematics Scholarship, Welland Centennial Secondary School__, Ontario \
 Presented to the student with the highest GPA in grade 12 Mathematics ($150)
 
 `2017`
-__Physics Scholarship, Welland Centennial Secondary School__, Ontario
+__Physics Scholarship, Welland Centennial Secondary School__, Ontario \
 Presented to the student with the highest GPA in grade 12 Physics ($150)
 
 
@@ -75,7 +75,7 @@ Presented to the student with the highest GPA in grade 12 Physics ($150)
 ## Research Experiences
 
 `April 2021 - September 2021`
-__Match of Minds__, Brock University
+__Match of Minds__, Brock University \
 Mentored by Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
@@ -83,7 +83,7 @@ Mentored by Professor Barak Shoshany
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
 
 `September 2021 - April 2022`
-__Undergraduate Thesis__, Brock University
+__Undergraduate Thesis__, Brock University \
 Mentored by Professor Barak Shoshany
 - WIP
 
@@ -127,7 +127,8 @@ __Independant Peer Tutor__, Brock University
 
 `2017 - 2018`
 __Physics Club__, University of Guelph
-- Participated in weekly gatherings to discuss current developments in all areas of Physics as well as to meet professors and other students
+- Participated in weekly gatherings to discuss current developments Physics
+- Meeting professors and other students
 - Telescope observation night
 
 `2017 - 2018`
@@ -154,26 +155,26 @@ __Music__
 ## Work Experience
 
 `April 2021 - September 2021`
-__Brock University__, Ontario
-- Research Assistant (Match of Minds Research Program)
+__Brock University__, Ontario \
+Research Assistant (Match of Minds Research Program)
 
 `2020 - Present`
-__Private Tutor__, Ontario
-- Highschool Mathematics
+__Private Tutor__, Ontario \
+Highschool Mathematics
 
 `2019 - Present`
-__McDonalds__, Ontario
-- Crew
+__McDonalds__, Ontario \
+Crew
 
 `May 2018 - September 2018`
 __Canadian Niagara Power__, Ontario
 - IT intern
-- Computer maintenance and deployment
-- Computing projects in Visual Basic
+    - Computer maintenance and deployment
+    - Computing projects in Visual Basic
 
 `2015 - 2017`
-__Hard Rock Cafe__, Ontario
-- Line Cook
+__Hard Rock Cafe__, Ontario \
+Line Cook
 
 
 
