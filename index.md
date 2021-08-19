@@ -22,18 +22,18 @@ theories of quantum gravity as well as causality.
 
 ## Education
 
-`2013 - 2017`
-__Welland Centennial Secondary School__, Ontario
+`January 2020 - Present`
+__Brock University__, Ontario
+- Bachelor of Science (Honours) - Physics
+- Average of 89.0%
 
 `September 2017 - December 2018`
 __University of Guelph__, Ontario
 - Bachelor of Science (Honours) - Physics
 - Average of 73.7%
 
-`January 2020 - Present`
-__Brock University__, Ontario
-- Bachelor of Science (Honours) - Physics
-- Average of 89.0%
+`2013 - 2017`
+__Welland Centennial Secondary School__, Ontario
 
 
 ## Awards and Honours
@@ -64,10 +64,12 @@ __Physics Scholarship, Welland Centennial Secondary School__, Ontario
 
 
 ## Publications
+
 __WIP__
 
 
 ## Research Experiences
+
 `April 2021 - September 2021`
 __Match of Minds__, Brock University
 - Mentored by Professor Barak Shoshany
@@ -78,20 +80,24 @@ __Match of Minds__, Brock University
 
 
 ## Talks
+
 __WIP__
 
 
 ## Posters
+
 __WIP__
 
 
 ## Relevant Coursework
+
 __Physics:__ Classical Mechanics, Electromagnetism, Quantum Mechanics, Statistical Mechanics and Thermal Physics, Optics, General & Special Relativity
 
 __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, Complex & Real Analysis
 
 
 ## Skills
+
 __Programming Languages:__ Python, C, C++, Visual Basic, Java, Javascript, LaTeX, Physica, SQL
 
 __Operating Systems:__ Mac OS, Linux, Windows
@@ -100,14 +106,29 @@ __Software:__ Git, Mathematica, Maple, Extrema, GNU Octave
 
 __Languages:__ English, French
 
-__Soft Skills:__
+__Soft Skills:__ Passionate, Collaborative, Time Management, Organization, Planning, Leadership, Curious
 
 
 ## Outreach
-__WIP__
+
+`2020`
+__Independant Peer Tutor__, Brock University
+- Organized and taught a student study group for Electromagnetism
+- Held review and one on one sessions with students in need of assistance
+
+`2017 - 2018`
+__Physics Club__, University of Guelph
+- Participated in weekly gatherings to discuss current developments in all areas of Physics as well as to meet professors and other students
+- Telescope observation night
+
+`2017 - 2018`
+__Jacl.org__, University of Guelph
+- Volunteered and participated in regular events throughtout school terms
+- Mental health awareness movement
 
 
 ## Extracurricular Activities
+
 __Computers__
 - Regularly building and maintaining computers
 
