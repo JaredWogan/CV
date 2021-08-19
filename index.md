@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jared Wogan's CV
+title: Jared Wogan
 ---
 # Jared Wogan
 Student and Research Assistant at Brock University
@@ -24,51 +24,51 @@ theories of quantum gravity as well as causality.
 
 `January 2020 - Present`
 __Brock University__, Ontario
-- Bachelor of Science (Honours) - Physics
-- Average of 89.0%
+Bachelor of Science (Honours) - Physics
+Average of 89.0%
 
 `September 2017 - December 2018`
 __University of Guelph__, Ontario
-- Bachelor of Science (Honours) - Physics
-- Average of 73.7%
+Bachelor of Science (Honours) - Physics
+Average of 73.7%
 
 `September 2013 - June 2017`
 __Welland Centennial Secondary School__, Ontario
-- French Immersion
-- Grade 12 Average of 99.5%
+French Immersion
+Grade 12 Average of 99.5%
 
 
 ## Awards and Honours
 
 `2021`
 __Match of Minds, Brock University__, Ontario
-- Research Grant ($5,000)
+Research Grant ($5,000)
 
 `2020 - 2021`
 __Deans Honours List, Brock University__, Ontario
-- Average of 80%+ for academic year of 2020 - 2021
+Average of 80%+ for academic year of 2020 - 2021
 
 `2017`
 __Entrance Scholarship, University of Guelph__, Ontario
-- Outstanding admissions average ($7,000)
+Outstanding admissions average ($7,000)
 
 `2017`
 __University of Waterloo, Euclid Test__, Ontario
-- School champion
+School champion
 
 `2017`
 __Mathematics Scholarship, Welland Centennial Secondary School__, Ontario
-- Presented to the student with the highest GPA in grade 12 Mathematics ($150)
+Presented to the student with the highest GPA in grade 12 Mathematics ($150)
 
 `2017`
 __Physics Scholarship, Welland Centennial Secondary School__, Ontario
-- Presented to the student with the highest GPA in grade 12 Physics ($150)
+Presented to the student with the highest GPA in grade 12 Physics ($150)
 
 
 ## Publications
 
-__WIP__
 1 - Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime __WIP__
+
 2 - Mathemtica Simulation of Time Travel Paradoxes __WIP__
 
 
@@ -76,7 +76,7 @@ __WIP__
 
 `April 2021 - September 2021`
 __Match of Minds__, Brock University
-- Mentored by Professor Barak Shoshany
+Mentored by Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
@@ -84,7 +84,7 @@ __Match of Minds__, Brock University
 
 `September 2021 - April 2022`
 __Undergraduate Thesis__, Brock University
-- Mentored by Professor Barak Shoshany
+Mentored by Professor Barak Shoshany
 - WIP
 
 
