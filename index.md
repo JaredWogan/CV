@@ -6,8 +6,8 @@ title: Jared Wogan's CV
 Student at Brock University, Research Assistant
 
 <div id="webaddress">
-<a href="jared.wogan@gmail.com">Jared.Wogan@gmail.com</a>
-| <a href="https://jaredwogan.ca">My Website</a>
+<a href="mailto:jared.wogan@gmail.com">Jared.Wogan@gmail.com</a>
+| <a href="https://jaredwogan.ca">Jaredwogan.ca</a>
 </div>
 
 
