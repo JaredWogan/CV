@@ -34,6 +34,7 @@ __University of Guelph__, Ontario
 
 `2013 - 2017`
 __Welland Centennial Secondary School__, Ontario
+- Grade 12 Average of 99.5%
 
 
 ## Awards and Honours
