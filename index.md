@@ -67,12 +67,19 @@ Presented to the student with the highest GPA in grade 12 Physics ($150)
 
 ## Publications
 
+`TBD`
 1 - Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime __WIP__
 
+`TBD`
 2 - Mathemtica Simulation of Time Travel Paradoxes __WIP__
 
 
 ## Research Experiences
+
+`September 2021 - April 2022`
+__Undergraduate Thesis__, Brock University \
+Mentored by Professor Barak Shoshany
+- WIP
 
 `April 2021 - September 2021`
 __Match of Minds__, Brock University \
@@ -81,11 +88,6 @@ Mentored by Professor Barak Shoshany
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
-
-`September 2021 - April 2022`
-__Undergraduate Thesis__, Brock University \
-Mentored by Professor Barak Shoshany
-- WIP
 
 
 ## Talks
