@@ -58,7 +58,7 @@ Welland Centennial Secondary School \
 Obtained an overage of 80% or higher in any six Grade 12 courses
 
 `2017`
-__Euclid Test__
+__Euclid Test__ \
 University of Waterloo \
 School champion
 
