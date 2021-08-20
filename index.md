@@ -172,7 +172,7 @@ McDonalds, Ontario, Canada
 - Working as a team towards common goals
 
 `May 2018 - September 2018`
-__IT intern__ \
+__IT Intern / Coop Student__ \
 Candian Niagara Power, Ontario, Canada
 - Computer maintenance and deployment
 - Computing projects in Visual Basic
