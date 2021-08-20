@@ -13,27 +13,25 @@ Student and Research Assistant at Brock University
 
 ## Research \ Interests
 
-I am a student in my final year at Brock University, currently finishing a Bachelor's of Science degree,
-majoring in Physics, with a minor in Mathematics. I am passionate about theories of gravity and causality
-within the theory of general relativity, and would like to use the knowledge and skills learned while
-completing this degree to explore these interests further. In particular, I am interested in exploring
-theories of quantum gravity as well as causality.
+I am a student in my final year at Brock University. I am finishing a Bachelors of Science degree with a
+major in Physics and a minor in Mathematics. I am passionate about theories of gravity and causality
+within general relativity and quantum mechanics. I would like to use the skills and knowledge from this degree
+to push myself to explore these topics further, with a focus on theories of quantum gravity.
 
 
 ## Education
 
-`January 2020 - Present`
-__Brock University__, Ontario \
-Bachelor of Science (Honours) - Physics \
-Average of 89.0%
+`2017 - 2022`
+__Bachelor of Science (Honours)__ \
+Brock University, University of Guelph
+- Major in Physics
+- Minor in Mathematics
+Cumaltive average of 81.0%
+Major average of 89.0%
 
-`September 2017 - December 2018`
-__University of Guelph__, Ontario \
-Bachelor of Science (Honours) - Physics \
-Average of 73.7%
-
-`September 2013 - June 2017`
-__Welland Centennial Secondary School__, Ontario \
+`2013 - 2017`
+__High School Diploma__ \
+Welland Centennial Secondary School \
 French Immersion \
 Grade 12 Average of 94.3%
 
@@ -73,42 +71,33 @@ __University of Waterloo, Fermat Test__, Ontario \
 Certificate of Distinction for ranking top 25% of contestants
 
 
-
 ## Publications
 
 `TBD`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__
-- __WIP__
+In preparation
 
 `TBD`
 __Mathemtica Simulation of Time Travel Paradoxes__
-- __WIP__
+In preparation
 
 
 ## Research Experiences
 
 `September 2021 - April 2022`
-__Undergraduate Thesis__, Brock University \
-Mentored by Professor Barak Shoshany
+__Project Title__\
+Undergraduate Thesis, Brock University
+Advisor: Professor Barak Shoshany
 -__WIP__
 
 `April 2021 - September 2021`
-__Match of Minds__, Brock University \
-Mentored by Professor Barak Shoshany
+__Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__\
+Match of Minds, Brock University
+Advisor: Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
-
-
-## Talks
-
-__WIP__
-
-
-## Posters
-
-__WIP__
 
 
 ## Relevant Coursework
@@ -120,11 +109,11 @@ __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, C
 
 ## Skills
 
-__Programming Languages:__ Python, C, C++, Visual Basic, Java, Javascript, LaTeX, Physica, SQL
+__Programming Languages:__ Python, C, C++, Visual Basic, Physica, Java, Javascript, Markdown, HTML, CSS, SQL
 
 __Operating Systems:__ Mac OS, Linux, Windows
 
-__Software:__ Git, Mathematica, Maple, Extrema, GNU Octave
+__Software:__ Git, Mathematica, Maple, GNU Octave, LaTeX
 
 __Languages:__ English, French
 
@@ -150,6 +139,41 @@ __Jack.org__, University of Guelph
 - Volunteered and participated in regular events throughtout school terms
 
 
+## Work Experience
+
+`April 2021 - September 2021`
+__Research Assistant__\
+Match of Minds, Brock University
+- Research experience
+- Collaborating and sharing ideas with others
+
+`January 2020 - Present`
+__Private Tutor__, Ontario \
+Highschool Mathematics
+- Teaching skills
+- Learning to communicate thoughts and ideas effectively
+
+`March 2019 - Present`
+__Line Cook, Customer Service__, Ontario \
+McDonalds
+- Customer service
+- Communication skills
+- Working as a team towards common goals
+
+`May 2018 - September 2018`
+__IT intern__, Ontario \
+Candian Niagara Power
+- Computer maintenance and deployment
+- Computing projects in Visual Basic
+
+`June 2015 - September 2017`
+__Dishwasher, Line Cook__, Ontario \
+Hard Rock Cafe
+- Working and collaborating with team members
+- Communication skills
+- Working in a stressful and time sensitive environment
+
+
 ## Hobbies
 
 __Computers__
@@ -161,33 +185,7 @@ __Programming__
     - Creating fractals using Python
 
 __Music__
-- Learning instruments, starting with piano
 - Occasional mixing done in FL Studio
-
-
-## Work Experience
-
-`April 2021 - September 2021`
-__Brock University__, Ontario \
-Research Assistant (Match of Minds Research Program)
-
-`2020 - Present`
-__Private Tutor__, Ontario \
-Highschool Mathematics
-
-`2019 - Present`
-__McDonalds__, Ontario \
-Crew
-
-`May 2018 - September 2018`
-__Canadian Niagara Power__, Ontario
-- IT intern
-    - Computer maintenance and deployment
-    - Computing projects in Visual Basic
-
-`2015 - 2017`
-__Hard Rock Cafe__, Ontario \
-Line Cook
 
 
 
