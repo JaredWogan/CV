@@ -22,7 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	page-break-inside: avoid;
+	break-inside: avoid;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -31,12 +31,12 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	page-break-inside: avoid;
+	break-inside: avoid;
 }
 ol, ul {
 	list-style: inside;
-	page-break-inside: avoid;
-	page-break-before: avoid;
+	break-inside: avoid;
+	break-before: avoid;
 }
 blockquote, q {
 	quotes: none;
@@ -120,11 +120,12 @@ li ul {
 }
 
 h1,h2,h3,h4,h5 {
+	margin-top: 0.25em;
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
-	page-break-after: avoid;
-	page-break-inside: avoid;
+	break-after: avoid;
+	break-inside: avoid;
 }
 h1::after {
 	content: "";
