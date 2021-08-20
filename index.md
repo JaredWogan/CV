@@ -24,7 +24,7 @@ to push myself to explore these topics further, with a focus on theories of quan
 `2017 - 2022`
 __B.Sc in Physics (Honours), minor in Mathematics__ \
 Brock University, University of Guelph \
-Cumaltive average of 81.0% \
+Cumulative average of 81.0% \
 Major average of 89.0%
 
 `2013 - 2017`
