@@ -30,7 +30,9 @@ Brock University, University of Guelph
 - Minor in Mathematics
 
 Cumaltive average of 81.0%
+
 Major average of 89.0%
+
 
 `2013 - 2017`
 __High School Diploma__
