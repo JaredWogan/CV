@@ -13,10 +13,11 @@ Student and Research Assistant at Brock University
 
 ## Research \ Interests
 
-I am a student in my final year at Brock University. I am finishing a Bachelors of Science degree with a
-major in Physics and a minor in Mathematics. I am passionate about theories of gravity and causality
-within general relativity and quantum mechanics. I would like to use the skills and knowledge from this degree
-to push myself to explore these topics further, with a focus on theories of quantum gravity.
+I am a student in my final year at Brock University, finishing a Bachelors of Science
+with a major in Physics and a minor in Mathematics. I am passionate about theories of gravity and
+causality within general relativity and quantum mechanics. I would like to use the skills and
+knowledge from this degree to push myself to explore these topics further, with a focus on theories
+of quantum gravity.
 
 
 ## Education
