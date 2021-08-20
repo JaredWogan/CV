@@ -25,13 +25,13 @@ to push myself to explore these topics further, with a focus on theories of quan
 __B.Sc in Physics (Honours), minor in Mathematics__ \
 Brock University, University of Guelph \
 Cumaltive average of 81.0% \
-Major average of 89.0% \
+Major average of 89.0%
 
 `2013 - 2017`
 __Ontario Secondary School Diploma__ \
 Welland Centennial Secondary School \
 French Immersion \
-Grade 12 Average of 94.3% \
+Grade 12 Average of 94.3%
 
 
 ## Awards and Honours
@@ -39,53 +39,53 @@ Grade 12 Average of 94.3% \
 `2021`
 __Match of Minds__ \
 Brock University \
-Research Grant ($5,000) \
+Research Grant ($5,000)
 
 `2020 - 2021`
 __Dean's Honour List__ \
 Brock University \
-Average of 80%+ for academic year of 2020 - 2021 \
+Average of 80%+ for academic year of 2020 - 2021
 
 `2017`
 __Entrance Scholarship__ \
 University of Guelph \
-Outstanding admissions average ($7,000) \
+Outstanding admissions average ($7,000)
 
 `2017`
 __Ontario Scholar__ \
 Welland Centennial Secondary School \
-Obtained an overage of 80% or higher in any six Grade 12 courses \
+Obtained an overage of 80% or higher in any six Grade 12 courses
 
 `2017`
 __Euclid Test__
 University of Waterloo \
-School champion \
+School champion
 
 `2017`
 __Mathematics Scholarship__ \
 Welland Centennial Secondary School \
-Presented to the student with the highest GPA in grade 12 Mathematics ($150) \
+Presented to the student with the highest GPA in grade 12 Mathematics ($150)
 
 `2017`
 __Physics Scholarship__ \
 Welland Centennial Secondary School \
-Presented to the student with the highest GPA in grade 12 Physics ($150) \
+Presented to the student with the highest GPA in grade 12 Physics ($150)
 
 `2016`
 __Fermat Test__ \
 University of Waterloo \
-Certificate of Distinction for ranking top 25% of contestants \
+Certificate of Distinction for ranking top 25% of contestants
 
 
 ## Publications
 
 `TBD`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
-In preparation \
+In preparation
 
 `TBD`
 __Mathemtica Simulation of Time Travel Paradoxes__ \
-In preparation \
+In preparation
 
 
 ## Research Experiences
@@ -93,13 +93,13 @@ In preparation \
 `September 2021 - April 2022`
 __Project Title__ \
 Undergraduate Thesis, Brock University \
-Advisor: Professor Barak Shoshany \
--__WIP__
+Advisor: Professor Barak Shoshany
+- Placeholder - Work to be started still
 
 `April 2021 - September 2021`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
 Match of Minds, Brock University \
-Advisor: Professor Barak Shoshany \
+Advisor: Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
@@ -130,20 +130,20 @@ __Soft Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organ
 
 `2020`
 __Independant Peer Tutor__ \
-Brock University \
+Brock University
 - Organized and taught a student study group for Electromagnetism
 - Held review and one on one sessions with students in need of assistance
 
 `2017 - 2018`
 __Physics Club__ \
-University of Guelph \
+University of Guelph
 - Participated in weekly gatherings to discuss current developments Physics
 - Meeting professors and other students
 - Telescope observation night
 
 `2017 - 2018`
 __Jack.org__ \
-University of Guelph \
+University of Guelph
 - Mental health awareness movement
 - Volunteered and participated in regular events throughtout school terms
 
@@ -152,33 +152,33 @@ University of Guelph \
 
 `April 2021 - September 2021`
 __Research Assistant__ \
-Match of Minds, Brock University, Ontario, Canada \
+Match of Minds, Brock University, Ontario, Canada
 - Research experience
 - Collaborating and sharing ideas with others
 
 `January 2020 - Present`
 __Private Tutor__ \
 Independant, Ontario, Canada \
-Highschool Mathematics \
+Highschool Mathematics
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
 
 `March 2019 - Present`
 __Line Cook, Customer Service__ \
-McDonalds, Ontario, Canada \
+McDonalds, Ontario, Canada
 - Customer service
 - Communication skills
 - Working as a team towards common goals
 
 `May 2018 - September 2018`
 __IT intern__ \
-Candian Niagara Power, Ontario, Canada \
+Candian Niagara Power, Ontario, Canada
 - Computer maintenance and deployment
 - Computing projects in Visual Basic
 
 `June 2015 - September 2017`
 __Dishwasher, Line Cook__ \
-Hard Rock Cafe, Ontario, Canada \
+Hard Rock Cafe, Ontario, Canada
 - Working and collaborating with team members
 - Communication skills
 - Working in a stressful and time sensitive environment
