@@ -116,11 +116,11 @@ __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, C
 
 ## Skills
 
-__Programming Languages:__ Python, C, C++, Visual Basic, Physica, Java, Javascript, Markdown, HTML, CSS, SQL
+__Programming Languages:__ Python, C, C++, Visual Basic, Physica, Javascript, Markdown, HTML, CSS, SQL
 
 __Operating Systems:__ Mac OS, Linux, Windows
 
-__Software:__ Git, Mathematica, Maple, GNU Octave, LaTeX
+__Software:__ Git, Mathematica, Maple, LaTeX
 
 __Languages:__ English, French
 
