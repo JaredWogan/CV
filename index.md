@@ -38,7 +38,7 @@ Grade 12 Average of 94.3%
 ## Awards and Honours
 
 `2021`
-__Returning Student Scholarship__ \
+__Returning Scholars Award__ \
 Brock University \
 Returning student with an average of 94.9% the previous year ($1,500)
 
