@@ -135,7 +135,7 @@ __Soft Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organ
 ## Extracurricular Activities
 
 `2021 - Present`
-__Discord Maintainer__
+__Discord Maintainer__ \
 Brock University Physics Discord
 - Created and maintain the (unofficial) University Physics Discord
 
