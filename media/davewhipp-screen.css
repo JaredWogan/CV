@@ -16,6 +16,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
+	margin: auto;
+	margin-right: 25%;
+	width: auto;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -27,6 +30,7 @@ time, mark, audio, video {
 html {
 	max-width: 100%;
 	width: 100%;
+	margin: 0;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -35,6 +39,9 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	margin: auto;
+	margin-right: 25%;
+	width: auto;
 }
 ol, ul {
 	list-style: inside;
@@ -63,7 +70,6 @@ body {
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
-	margin-left: 5%;
 	white-space: normal;
 }
 
@@ -89,14 +95,15 @@ p code {
 	float: right;
 	text-align: right;
 	margin-left: 5%;
+	margin-right: 0%;
 	right: 0%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 27%;
+	width: auto;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 	white-space: normal;
@@ -133,6 +140,10 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+	width: 50%;
+	max-width: max-content;
+	margin: 0;
+	margin-right: 25%;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
