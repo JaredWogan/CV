@@ -103,7 +103,8 @@ Advisor: Professor Barak Shoshany
 - Placeholder - Work to be started still
 
 `April 2021 - September 2021`
-__Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
+__Time Travel Paradoxes and
+Multiple Histories in a Wormhole Spacetime__ \
 Match of Minds, Brock University \
 Advisor: Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
@@ -129,7 +130,7 @@ __Software:__ Git, Mathematica, Maple, LaTeX
 
 __Languages:__ English, French
 
-__Soft Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organization, Planning, Leadership, Curious
+__Personal Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organization, Planning, Leadership, Curious
 
 
 ## Extracurricular Activities
