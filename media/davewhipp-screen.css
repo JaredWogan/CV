@@ -16,6 +16,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
+	max-width: 100%;
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -25,10 +26,12 @@ time, mark, audio, video {
 	color: #EAEAEA;
 	background-color: #131418;
 }
+html {
+	width: 100%;
+}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	width: 100%;
 	display: block;
 }
 body {
