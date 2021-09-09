@@ -61,6 +61,7 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	white-space: normal;
 }
 
 p {
@@ -69,6 +70,7 @@ p {
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
+	white-space: normal;
 }
 
 code {
@@ -92,6 +94,7 @@ ul {
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+	white-space: normal;
 }
 
 /*uncomment to get dashes in the list*/
@@ -113,12 +116,14 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	white-space: normal;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
+	white-space: normal;
 }
 
 h1 {
@@ -144,6 +149,7 @@ h2 {
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
+	white-space: normal;
 }
 
 h3 {
@@ -154,6 +160,7 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	white-space: normal;
 }
 
 a {
