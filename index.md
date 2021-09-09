@@ -103,8 +103,7 @@ Advisor: Professor Barak Shoshany
 - Placeholder - Work to be started still
 
 `April 2021 - September 2021`
-__Time Travel Paradoxes and
-Multiple Histories in a Wormhole Spacetime__ \
+__Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
 Match of Minds, Brock University \
 Advisor: Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
@@ -144,7 +143,7 @@ Brock University Physics Discord
 __Independant Peer Tutor__ \
 Brock University
 - Organized and taught a student study group for Electromagnetism
-- Held review and one on one sessions with students in need of assistance
+- Held review and one-on-one sessions with students in need of assistance
 
 `2017 - 2018`
 __Physics Club__ \
@@ -170,7 +169,7 @@ Match of Minds, Brock University, Ontario, Canada
 
 `January 2020 - Present`
 __Private Tutor__ \
-Independant, Ontario, Canada \
+Independent, Ontario, Canada \
 Highschool Mathematics
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
