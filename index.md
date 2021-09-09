@@ -47,7 +47,7 @@ __Match of Minds__ \
 Brock University \
 Research Grant ($5,000)
 
-`2020 - 2021`
+`2021`
 __Dean's Honour List__ \
 Brock University \
 Average of 80%+ for academic year of 2020 - 2021
@@ -60,7 +60,7 @@ Outstanding admissions average ($7,000)
 `2017`
 __Ontario Scholar__ \
 Welland Centennial Secondary School \
-Obtained an overage of 80% or higher in any six Grade 12 courses
+Obtained an average of 80% or higher in any six Grade 12 courses
 
 `2017`
 __Euclid Test__ \
