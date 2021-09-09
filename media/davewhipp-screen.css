@@ -83,6 +83,7 @@ code {
 
 p code {
 	position: relative;
+	float: right;
 	text-align: right;
 	right: 0%;
 }
