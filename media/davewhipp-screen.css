@@ -16,7 +16,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
+	margin: auto;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -72,7 +72,6 @@ body {
 p {
 	position: relative;
 	left: 25%;
-	margin: 0;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
