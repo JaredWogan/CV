@@ -59,9 +59,11 @@ table {
 	border-spacing: 0;
 }
 
+div {
+	margin-right: 0;
+}
+
 /* end of reset */
-
-
 
 body {
 	font: normal normal 400;
