@@ -112,6 +112,29 @@ Advisor: Professor Barak Shoshany
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
 
 
+## Teaching Experience
+
+`January 2020 - Present`
+__Private Tutor__ \
+Independent, Ontario, Canada \
+Highschool Mathematics
+- Teaching skills
+- Learning to communicate thoughts and ideas effectively
+
+`2020`
+__Independant Peer Tutor__ \
+Brock University
+- Organized and taught a student study group for Electromagnetism
+- Held review and one-on-one sessions with students in need of assistance
+
+`2017`
+__Mathematics PAL__ \
+Welland Centennial Secondary School
+- Was a teaching assistant and tutor for a grade 9 french mathematics course
+- Worked one-on-one with and motivated students
+- Marked and wrote problems for tests
+
+
 ## Relevant Coursework
 
 __Physics:__ Classical Mechanics, Electromagnetism, Quantum Mechanics, Statistical Mechanics and Thermal Physics, Optics, General & Special Relativity
@@ -139,12 +162,6 @@ __Discord Maintainer__ \
 Brock University Physics Discord
 - Created and maintain the (unofficial) University Physics Discord
 
-`2020`
-__Independant Peer Tutor__ \
-Brock University
-- Organized and taught a student study group for Electromagnetism
-- Held review and one-on-one sessions with students in need of assistance
-
 `2017 - 2018`
 __Physics Club__ \
 University of Guelph
@@ -160,19 +177,6 @@ University of Guelph
 
 
 ## Work Experience
-
-`April 2021 - September 2021`
-__Research Assistant__ \
-Match of Minds, Brock University, Ontario, Canada
-- Research experience
-- Collaborating and sharing ideas with others
-
-`January 2020 - Present`
-__Private Tutor__ \
-Independent, Ontario, Canada \
-Highschool Mathematics
-- Teaching skills
-- Learning to communicate thoughts and ideas effectively
 
 `March 2019 - Present`
 __Line Cook, Customer Service__ \
