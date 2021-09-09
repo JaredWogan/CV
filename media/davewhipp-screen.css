@@ -28,6 +28,7 @@ time, mark, audio, video {
 }
 html {
 	width: 100%;
+	margin: 0;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -36,6 +37,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	width: 100%;
+	margin: 0;
 	line-height: 1;
 }
 ol, ul {
