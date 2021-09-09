@@ -17,6 +17,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	max-width: 100%;
+	width: auto;
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -36,7 +37,6 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	width: 100%;
 	margin: 0;
 	line-height: 1;
 }
