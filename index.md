@@ -131,8 +131,8 @@ Brock University
 `2017`
 __Mathematics PAL__ \
 Welland Centennial Secondary School
-- Was a teaching assistant and tutor for a grade 9 french mathematics course
-- Worked one-on-one with and motivated students
+- Teaching assistant and tutor for a grade 9 french mathematics course
+- Worked one-on-one and motivated students
 - Marked and wrote problems for tests
 
 
