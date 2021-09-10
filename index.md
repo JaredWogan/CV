@@ -27,7 +27,7 @@ __B.Sc in Physics (Honours), Minor in Mathematics__ \
 Brock University, University of Guelph \
 Cumulative average of 81.0% (3.7 GPA on 4 point scale) \
 Major average of 89.0% (4.0 GPA on 4 point scale)\
-Upper level course average of 91.4% (4.0 GPA on 4 point scale)\
+Upper level course average of 91.4% (4.0 GPA on 4 point scale)
 
 `2013 - 2017`
 __Ontario Secondary School Diploma__ \
