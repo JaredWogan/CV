@@ -91,7 +91,7 @@ __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
 In preparation
 
 `TBD`
-__Mathemtica Simulation of Time Travel Paradoxes__ \
+__Mathematica Simulation of Time Travel Paradoxes__ \
 In preparation
 
 
