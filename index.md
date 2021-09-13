@@ -32,8 +32,8 @@ Upper level course average of 91.4% (4.0 GPA on 4 point scale)
 `2013 - 2017`
 __Ontario Secondary School Diploma__ \
 Welland Centennial Secondary School \
-French Immersion \
-Grade 12 Average of 94.3%
+French immersion \
+Grade 12 average of 94.3%
 
 
 ## Awards and Honours
@@ -101,7 +101,7 @@ In preparation
 __Project Title__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
-- Placeholder - Work to be started still
+- Work to be started still
 
 `April 2021 - September 2021`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
