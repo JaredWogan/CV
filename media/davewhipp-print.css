@@ -108,6 +108,7 @@ p code {
 
 
 ul {
+	margin: 0;
 	position: relative;
 	left: 27%;
 	width: auto;
