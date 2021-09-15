@@ -183,6 +183,8 @@ h2 {
 	text-align: right;
 	width: 20%;
 	white-space: normal;
+	page-break-inside: avoid;
+	page-break-before: avoid;
 }
 
 h3 {
