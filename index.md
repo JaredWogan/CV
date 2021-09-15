@@ -16,7 +16,6 @@ Student and Research Assistant at Brock University
 
 ## Research \ Interests
 
-
 I am a student in my final year at Brock University, finishing a Bachelors of Science
 with a major in Physics and a minor in Mathematics. I am passionate about theories of gravity and
 causality within general relativity and quantum mechanics. I would like to use the skills and
@@ -25,7 +24,6 @@ of quantum gravity.
 
 
 ## Education
-
 
 `2017 - 2022`
 __B.Sc in Physics (Honours), Minor in Mathematics__ \
@@ -43,54 +41,45 @@ Grade 12 average of 94.3%
 
 ## Awards and Honours
 
-
 `2021`
 __Returning Scholars Award__ \
 Brock University \
 Returning student with an average of 94.9% the previous year ($1,500)
-
 
 `2021`
 __Match of Minds__ \
 Brock University \
 Research Grant ($5,000)
 
-
 `2021`
 __Dean's Honour List__ \
 Brock University \
 Average of 80%+ for academic year of 2020 - 2021
-
 
 `2017`
 __Entrance Scholarship__ \
 University of Guelph \
 Outstanding admissions average ($7,000)
 
-
 `2017`
 __Ontario Scholar__ \
 Welland Centennial Secondary School \
 Obtained an average of 80% or higher in any six Grade 12 courses
-
 
 `2017`
 __Euclid Test__ \
 University of Waterloo \
 School champion
 
-
 `2017`
 __Mathematics Scholarship__ \
 Welland Centennial Secondary School \
 Presented to the student with the highest GPA in grade 12 Mathematics ($150)
 
-
 `2017`
 __Physics Scholarship__ \
 Welland Centennial Secondary School \
 Presented to the student with the highest GPA in grade 12 Physics ($150)
-
 
 `2016`
 __Fermat Test__ \
@@ -100,11 +89,9 @@ Certificate of Distinction for ranking top 25% of contestants
 
 ## Publications
 
-
 `TBD`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
 In preparation
-
 
 `TBD`
 __Mathematica Simulation of Time Travel Paradoxes__ \
@@ -113,13 +100,11 @@ In preparation
 
 ## Research Experiences
 
-
 `September 2021 - April 2022`
 __Project Title__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
 - Work to be started still
-
 
 `April 2021 - September 2021`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
@@ -133,14 +118,12 @@ Advisor: Professor Barak Shoshany
 
 ## Teaching Experience
 
-
 `January 2020 - Present`
 __Private Tutor__ \
 Independent, Ontario, Canada \
 Highschool Mathematics
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
-
 
 `2020`
 __Independant Peer Tutor__ \
@@ -158,14 +141,12 @@ Welland Centennial Secondary School
 
 ## Relevant Coursework
 
-
 __Physics:__ Classical Mechanics, Electromagnetism, Quantum Mechanics, Statistical Mechanics and Thermal Physics, Optics, General & Special Relativity
 
 __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, Complex & Real Analysis, Differential Geometry
 
 
 ## Skills
-
 
 __Programming Languages:__ Python, C, C++, Visual Basic, Physica, Javascript, Markdown, HTML, CSS, SQL
 
@@ -180,12 +161,10 @@ __Personal Skills:__ Passionate, Hard Working, Collaborative, Time Management, O
 
 ## Extracurricular Activities
 
-
 `2021 - Present`
 __Discord Maintainer__ \
 Brock University Physics Discord
 - Created and maintain the (unofficial) University Physics Discord
-
 
 `2017 - 2018`
 __Physics Club__ \
@@ -193,7 +172,6 @@ University of Guelph
 - Participated in weekly gatherings to discuss current developments Physics
 - Meeting professors and other students
 - Telescope observation night
-
 
 `2017 - 2018`
 __Jack.org__ \
@@ -204,7 +182,6 @@ University of Guelph
 
 ## Work Experience
 
-
 `March 2019 - Present`
 __Line Cook, Customer Service__ \
 McDonalds, Ontario, Canada
@@ -212,13 +189,11 @@ McDonalds, Ontario, Canada
 - Communication skills
 - Working as a team towards common goals
 
-
 `May 2018 - September 2018`
 __IT Intern / Coop Student__ \
 Candian Niagara Power, Ontario, Canada
 - Computer maintenance and deployment
 - Computing projects in Visual Basic
-
 
 `June 2015 - September 2017`
 __Dishwasher, Line Cook__ \
@@ -230,16 +205,13 @@ Hard Rock Cafe, Ontario, Canada
 
 ## Hobbies
 
-
 __Computers__
 - Regularly building and maintaining computers
-
 
 __Programming__
 - Passion Projects
     - Developed a Discord bot for use in my personal Discord
     - Creating fractals using Python
-
 
 __Music__
 - Occasional mixing done in FL Studio

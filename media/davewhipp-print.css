@@ -199,6 +199,7 @@ em {
 
 strong {
 	font-weight: bold;
+	margin-top: 1em;
 }
 
 #ghbutton {
