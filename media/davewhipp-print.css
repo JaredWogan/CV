@@ -16,13 +16,22 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
+	margin: auto;
+	margin-right: 25%;
+	width: auto;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	color: black;
+	background-color: white;
 	break-inside: avoid;
+}
+html {
+	max-width: 100%;
+	width: 100%;
+	margin: 0;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -32,6 +41,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	break-inside: avoid;
+	margin: auto;
+	margin-right: 25%;
+	width: auto;
 }
 ol, ul {
 	list-style: inside;
@@ -51,27 +63,30 @@ table {
 	border-spacing: 0;
 }
 
+div {
+	margin-right: 0;
+}
+
 /* end of reset */
-
-
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
-	line-height: 1.35em;
+	font-size: 100%;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
-	/*margin-left: 1em;*/
+	white-space: normal;
 }
 
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.7em;
 	margin-right: 0;
 	margin-top: 2em;
-	width: 60%;
+	width: auto;
+	white-space: normal;
 }
 
 code {
@@ -79,22 +94,26 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
-	position: absolute;
+	position: relative;
+	float: right;
 	text-align: right;
-	right: -20%;
+	margin-left: 5%;
+	margin-right: 0%;
+	right: 0%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	left: 27%;
+	width: auto;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
+	white-space: normal;
 }
 
 /*uncomment to get dashes in the list*/
@@ -118,24 +137,24 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	white-space: normal;
 }
 
 h1,h2,h3,h4,h5 {
-	margin-top: 0.25em;
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
+	margin: 0;
+	white-space: normal;
 	break-after: avoid;
 	break-inside: avoid;
 }
-h1::after {
-	content: "";
-	display: block;
-	height: 100px;
-	margin-bottom: -100px;
-}
 
 h1 {
+	width: 50%;
+	max-width: max-content;
+	margin: 0;
+	margin-right: 25%;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -158,22 +177,23 @@ h2 {
 	top: 3.1em;
 	text-align: right;
 	width: 20%;
+	white-space: normal;
 }
-
 
 h3 {
 	font-size: 1em;
+	color:  #007eed;
 	line-height: 2em;
-	color: #007eed;
 	position: relative;
-	top: 1.6em;
+	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	white-space: normal;
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
@@ -181,30 +201,33 @@ a:hover {
 }
 
 #webaddress {
+	width: auto;
+	margin: 0;
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
 	color: #007eed;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 100%;
 }
 
 #webaddress a {
+	margin: 0;
 	text-decoration: none;
 }
 
 em {
-	font-style: normal;
-	color: #007eed
+	/* font-weight: bold; */
+	font-style: italic;
 }
 
 strong {
-	top: 3em;
+	margin-right: 0;
 	margin-top: 3em;
 	font-weight: bold;
 }
 
-#ghbutton {
+#address {
 	display: none;
-	visibility: hidden;
 }
+
