@@ -125,12 +125,16 @@ ul {
 
 li {
 	/*second line indent*/
+	margin: 0;
 	page-break-inside: avoid;
 	page-break-before: avoid;
+	padding-left: 1.25em;
+	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
 li ul {
+	margin: 0;
 	page-break-inside: avoid;
 	page-break-before: avoid;
 	position: relative;
