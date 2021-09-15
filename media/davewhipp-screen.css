@@ -80,6 +80,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
+	margin-top: 2em;
 	width: auto;
 	white-space: normal;
 }
@@ -163,9 +164,9 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #007eed;
-	margin-top: 3em;
+	margin-top: 2em;
 	position: relative;
-	top: 1.4em;
+	top: 3.1em;
 	text-align: right;
 	width: 20%;
 	white-space: normal;
