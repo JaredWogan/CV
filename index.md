@@ -10,7 +10,7 @@ Student and Research Assistant at Brock University
     <a href="https://jaredwogan.ca">Jaredwogan.ca</a>
 </div>
 
-<div id="pdf">
+<div id="webaddress">
     <a href="https://jaredwogan.ca/CV/JaredWoganCV.pdf">View as PDF</a>
 </div>
 
