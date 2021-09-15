@@ -133,9 +133,11 @@ li {
 }
 
 li ul {
+	page-break-inside: avoid;
+	page-break-before: avoid;
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: auto;
 	margin-top: 0.25em;
 	white-space: normal;
 }
