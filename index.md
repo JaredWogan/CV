@@ -121,7 +121,7 @@ Advisor: Professor Barak Shoshany
 `January 2020 - Present`
 __Private Tutor__ \
 Independent, Ontario, Canada \
-Highschool Mathematics
+High School Mathematics
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
 
@@ -177,7 +177,7 @@ University of Guelph
 __Jack.org__ \
 University of Guelph
 - Mental health awareness movement
-- Volunteered and participated in regular events throughtout school terms
+- Volunteered and participated in regular events throughout school terms
 
 
 ## Work Experience
