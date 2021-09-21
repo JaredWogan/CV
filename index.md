@@ -144,7 +144,7 @@ __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, C
 
 ## Skills
 
-__Programming Languages:__ Python, C, C++, Visual Basic, Physica, Javascript, Markdown, HTML, CSS, SQL
+__Programming Languages:__ Python, C++, Physica, Javascript, Markdown, HTML, CSS
 
 __Operating Systems:__ Mac OS, Linux, Windows
 
