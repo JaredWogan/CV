@@ -93,10 +93,6 @@ Certificate of Distinction for ranking top 25% of contestants
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
 In preparation
 
-`TBD`
-__Mathematica Simulation of Time Travel Paradoxes__ \
-In preparation
-
 
 ## Research Experiences
 
@@ -104,7 +100,7 @@ In preparation
 __Project Title__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
-- Work to be started still
+- Work to be started
 
 `April 2021 - September 2021`
 __Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
