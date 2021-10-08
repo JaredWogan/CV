@@ -92,13 +92,13 @@ Certificate of Distinction for ranking top 25% of contestants
 `October 2021`
 __Wormhole Time Machines and Multiple Histories__ \
 Barak Shoshany and Jared Wogan \
-<a href=https://arxiv.org/abs/2110.02448>arXiv:21110.02448</a>
+<div id="WTM"><a href=https://arxiv.org/abs/2110.02448>arXiv:2110.02448</a></div>
 
 
 ## Research Experiences
 
 `September 2021 - April 2022`
-__PyOgre__ \
+__PyOGRe__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
 - A Python Object-Oriented General Relativity package
