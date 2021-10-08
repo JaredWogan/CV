@@ -92,7 +92,7 @@ Certificate of Distinction for ranking top 25% of contestants
 `October 2021`
 __Wormhole Time Machines and Multiple Histories__ \
 Barak Shoshany and Jared Wogan \
-[arXiv:2110.02448](https://arxiv.org/abs/2110.02448>)
+[arXiv:2110.02448](https://arxiv.org/abs/2110.02448)
 
 
 ## Research Experiences
