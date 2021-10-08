@@ -89,21 +89,23 @@ Certificate of Distinction for ranking top 25% of contestants
 
 ## Publications
 
-`TBD`
-__Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
-In preparation
+`October 2021`
+__Wormhole Time Machines and Multiple Histories__ \
+Barak Shoshany and Jared Wogan \
+<a href=https://arxiv.org/abs/2110.02448>arXiv:21110.02448</a>
 
 
 ## Research Experiences
 
 `September 2021 - April 2022`
-__Project Title__ \
+__PyOgre__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
-- Work to be started
+- A Python Object-Oriented General Relativity package
+    - Adaptation of the Mathematica package OGRe
 
 `April 2021 - September 2021`
-__Time Travel Paradoxes and Multiple Histories in a Wormhole Spacetime__ \
+__Wormhole Time Machines and Multiple Histories__ \
 Match of Minds, Brock University \
 Advisor: Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
