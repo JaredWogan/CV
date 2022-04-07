@@ -101,6 +101,7 @@ Barak Shoshany and Jared Wogan \
 __PyOGRe__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
+
 - A Python Object-Oriented General Relativity package
     - Adaptation of the Mathematica package OGRe
 
@@ -113,6 +114,11 @@ Advisor: Professor Barak Shoshany
     - Updated existing paradox model to use temperature instead of colours for the particles
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
 
+## Media Appearances
+
+`December, 2020`
+[__New Brock research explores time travel paradoxes__](https://brocku.ca/brock-news/2021/12/new-brock-research-explores-time-travel-paradoxes/) \
+Brock University, Ontario, Canada \
 
 ## Teaching Experience
 
@@ -120,6 +126,7 @@ Advisor: Professor Barak Shoshany
 __Private Tutor__ \
 Independent, Ontario, Canada \
 High School Mathematics
+
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
 
@@ -191,6 +198,7 @@ McDonalds, Ontario, Canada
 __IT Intern / Coop Student__ \
 Candian Niagara Power, Ontario, Canada
 - Computer maintenance and deployment
+- Preparing server backup tapes
 
 `June 2015 - September 2017`
 __Dishwasher, Line Cook__ \
@@ -212,7 +220,6 @@ __Programming__
 
 __Music__
 - Occasional mixing done in FL Studio
-
 
 
 
