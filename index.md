@@ -191,7 +191,6 @@ McDonalds, Ontario, Canada
 __IT Intern / Coop Student__ \
 Candian Niagara Power, Ontario, Canada
 - Computer maintenance and deployment
-- Computing projects in Visual Basic
 
 `June 2015 - September 2017`
 __Dishwasher, Line Cook__ \
