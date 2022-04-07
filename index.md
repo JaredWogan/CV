@@ -118,7 +118,7 @@ Advisor: Professor Barak Shoshany
 
 `December, 2020`
 [__New Brock research explores time travel paradoxes__](https://brocku.ca/brock-news/2021/12/new-brock-research-explores-time-travel-paradoxes/) \
-Brock University, Ontario, Canada \
+Brock University, Ontario, Canada
 
 ## Teaching Experience
 
