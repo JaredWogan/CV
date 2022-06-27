@@ -3,7 +3,7 @@ layout: cv
 title: Jared Wogan
 ---
 # Jared Wogan
-Student and Research Assistant at Brock University
+Master's Student at the University of Western Ontario
 
 <div id="webaddress">
     <a href="mailto:jared.wogan@gmail.com">Jared.Wogan@gmail.com</a>
@@ -16,11 +16,7 @@ Student and Research Assistant at Brock University
 
 ## Research \ Interests
 
-I am a student in my final year at Brock University, finishing a Bachelors of Science
-with a major in Physics and a minor in Mathematics. I am passionate about theories of gravity and
-causality within general relativity and quantum mechanics. I would like to use the skills and
-knowledge from this degree to push myself to explore these topics further, with a focus on theories
-of quantum gravity.
+I am starting a Master's at Western University in September 2022, working on numerical methods for calculating transition amplitudes in the EPRL model of quantum gravity. I am passionate about theories of gravity and causality within general relativity and quantum mechanics. I am also interested in the philosophy of physics especially pertaining to interpretations of quantum mechanics and quantum gravity.
 
 
 ## Education
@@ -28,9 +24,9 @@ of quantum gravity.
 `2017 - 2022`
 __B.Sc in Physics (Honours), Minor in Mathematics__ \
 Brock University, University of Guelph \
-Cumulative average of 81.0% (3.7 GPA on 4 point scale) \
-Major average of 89.0% (4.0 GPA on 4 point scale)\
-Upper level course average of 91.4% (4.0 GPA on 4 point scale)
+Cumulative average of 84% (3.7 GPA on 4 point scale) \
+Major average of 92% (4.0 GPA on 4 point scale)\
+Upper level course average of 93% (4.0 GPA on 4 point scale)
 
 `2013 - 2017`
 __Ontario Secondary School Diploma__ \
@@ -114,11 +110,20 @@ Advisor: Professor Barak Shoshany
     - Updated existing paradox model to use temperature instead of colours for the particles
     - Replaced model TDP space with a wormhole metric using general relativity to calculate geodesics that produce paradoxes
 
+
+## Conference Posters
+`June 6, 2022 - June 10, 2022`
+__The Quantum Information Structure of Spacetime__ \
+Western University
+PyOGRe: A Python Object-Oriented General Relativity package
+
+
 ## Media Appearances
 
 `December, 2020`
 [__New Brock research explores time travel paradoxes__](https://brocku.ca/brock-news/2021/12/new-brock-research-explores-time-travel-paradoxes/) \
 Brock University, Ontario, Canada
+
 
 ## Teaching Experience
 
