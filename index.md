@@ -16,10 +16,14 @@ Master's Student at the University of Western Ontario
 
 ## Research \ Interests
 
-I am starting a Master's at Western University in September 2022, working on numerical methods for calculating transition amplitudes in the EPRL model of quantum gravity. I am passionate about theories of gravity and causality within general relativity and quantum mechanics. I am also interested in the philosophy of physics especially pertaining to interpretations of quantum mechanics and quantum gravity.
+I am starting a Master's at Western University in September 2022, working on numerical methods for calculating transition amplitudes in the EPRL model of quantum gravity. I am passionate about theories of gravity and causality within general relativity and quantum mechanics. I am also interested in the philosophy of physics especially pertaining to interpretations of quantum mechanics and quantum gravity. I am also extremely passionate about high performance computing, machine learning methods, cloud computing. 
 
 
 ## Education
+
+`2022 - Present`
+__M.Sc in Physics, Scientific Computing Specialization__ \
+Western University \
 
 `2017 - 2022`
 __B.Sc in Physics (Honours), Minor in Mathematics__ \
@@ -33,6 +37,34 @@ __Ontario Secondary School Diploma__ \
 Welland Centennial Secondary School \
 French immersion \
 Grade 12 average of 94.3%
+
+
+## Certifications
+
+`February 2023`
+__Data Science Orientation__ \
+Coursera \
+[Badge](https://www.credly.com/badges/ba3f6309-b1a1-452d-a71e-30a1b7ea5a22/public_url)
+
+`February 2023`
+__Introduction to Cybersecurity Tools & Cyber Attacks__ \
+Coursera \
+[Badge](https://www.credly.com/badges/ee4d483a-9081-4d48-b889-d83e7211ed0f/public_url)
+
+`March 2016`
+__Microsoft Office Specialist: Word 2013__ \
+Microsoft \
+[Badge](https://www.credly.com/badges/0f6deb55-11d1-4612-83fb-fdd09099dfc4/public_url)
+
+`March 2016`
+__Microsoft Office Specialist: Excel 2013__ \
+Microsoft \
+[Badge](https://www.credly.com/badges/90aaa9f2-b4eb-46b5-98e9-0657aa579e49/public_url)
+
+`April 2016`
+__Microsoft Office Specialist: PowerPoint 2013__ \
+Microsoft \
+[Badge](https://www.credly.com/badges/ffe2eea4-cbd7-4c7f-9be6-c28f3b24811a/public_url)
 
 
 ## Awards and Honours
@@ -155,6 +187,8 @@ __Physics:__ Classical Mechanics, Electromagnetism, Quantum Mechanics, Statistic
 
 __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, Complex & Real Analysis, Differential Geometry
 
+__Computer Science:__ Data Visualization, Data Structures, Algorithms, Machine Learning, Data Science, MPI, GPU Programming, Distributed Systems, Cybersecurity, Object Oriented Programming, Functional Programming
+
 
 ## Skills
 
@@ -192,7 +226,14 @@ University of Guelph
 
 ## Work Experience
 
-`March 2019 - Present`
+`May 2022 - September 2022`
+__Stores and Maintenance Intern / Coop Student__ \
+Candian Niagara Power, Ontario, Canada
+- Stock management using SAP
+- Building and yard maintenance
+- Independant and collaborative work
+
+`March 2019 - January 2022`
 __Line Cook, Customer Service__ \
 McDonalds, Ontario, Canada
 - Customer service
