@@ -16,7 +16,7 @@ Master's Student at the University of Western Ontario
 
 ## Research \ Interests
 
-I am starting a Master's at Western University in September 2022, working on numerical methods for calculating transition amplitudes in the EPRL model of quantum gravity. I am passionate about theories of gravity and causality within general relativity and quantum mechanics. I am also interested in the philosophy of physics especially pertaining to interpretations of quantum mechanics and quantum gravity. I am also extremely passionate about high performance computing, machine learning methods, cloud computing. 
+I am starting a Master's at Western University in September 2022, working on numerical methods for calculating transition amplitudes in the EPRL model of quantum gravity. I am passionate about theories of gravity and causality within general relativity and quantum mechanics. I am also interested in the philosophy of physics especially pertaining to interpretations of quantum mechanics and quantum gravity. I am also extremely passionate about high performance computing, machine learning methods, and cloud computing. 
 
 
 ## Education
