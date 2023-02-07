@@ -23,7 +23,7 @@ I am starting a Master's at Western University in September 2022, working on num
 
 `2022 - Present`
 __M.Sc in Physics, Scientific Computing Specialization__ \
-Western University \
+Western University
 
 `2017 - 2022`
 __B.Sc in Physics (Honours), Minor in Mathematics__ \
