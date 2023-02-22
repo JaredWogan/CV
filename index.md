@@ -25,6 +25,16 @@ I am starting a Master's at Western University in September 2022, working on num
 __M.Sc in Physics, Scientific Computing Specialization__ \
 Western University
 
+`June 2022 - September 2022`
+__Compute ONtario Summer School__ \
+Compute Ontario \
+Courses on:
+- Data Visualization
+- Machine Learning
+- High Performance Python
+- GPU Programming
+- C/C++, MPI, and OpenMP
+
 `2017 - 2022`
 __B.Sc in Physics (Honours), Minor in Mathematics__ \
 Brock University, University of Guelph \
