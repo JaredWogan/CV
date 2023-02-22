@@ -25,7 +25,7 @@ __M.Sc in Physics, Scientific Computing Specialization__ \
 Western University
 
 `June 2022 - September 2022`
-__Compute ONtario Summer School__ \
+__Compute Ontario Summer School__ \
 Compute Ontario \
 Courses on:
 - Data Visualization
