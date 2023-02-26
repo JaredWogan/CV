@@ -14,15 +14,40 @@ Master's Student at the University of Western Ontario
 </div>
 
 
+## Table of Contents
+- [Jared Wogan](#jared-wogan)
+  - [Table of Contents](#table-of-contents)
+  - [Research \\ Interests](#research--interests)
+  - [Education](#education)
+  - [Certifications](#certifications)
+  - [Work Experience](#work-experience)
+  - [Awards and Honours](#awards-and-honours)
+  - [Publications](#publications)
+  - [Research Experiences](#research-experiences)
+  - [Conference Posters](#conference-posters)
+  - [Media Appearances](#media-appearances)
+  - [Teaching Experience](#teaching-experience)
+  - [Relevant Coursework](#relevant-coursework)
+  - [Skills](#skills)
+  - [Extracurricular Activities](#extracurricular-activities)
+  - [Hobbies](#hobbies)
+
+
 ## Research \ Interests
 
-I am a Master's student at the University of Western Ontario, studying physics with a scientific computing specialization. I have writen a Python package for general relativity, OGRePy, and a research project on wormhole time machines and multiple histories. I am passionate about cryptography and cyber security, data science, high performance computing, and software development. I am currently looking for a co-op position in 2023.
+I am a Master's student at the University of Western Ontario, studying physics with a scientific computing specialization. I have written a Python package for general relativity, OGRePy, and a research project on wormhole time machines and multiple histories. I am passionate about cryptography and cyber security, data science, high performance computing, and software development. I am currently looking for a co-op position in 2023.
+
 
 ## Education
 
 `2022 - Present`
 __M.Sc in Physics, Scientific Computing Specialization__ \
-Western University
+Western University \
+Teaching assistant for: \
+- First year physics labs
+- First year linear algebra
+Experience teaching and working one-on-one with students \
+
 
 `June 2022 - September 2022`
 __Compute Ontario Summer School__ \
@@ -74,6 +99,36 @@ Microsoft \
 __Microsoft Office Specialist: PowerPoint 2013__ \
 Microsoft \
 [Badge](https://www.credly.com/badges/ffe2eea4-cbd7-4c7f-9be6-c28f3b24811a/public_url)
+
+
+## Work Experience
+
+`May 2022 - September 2022`
+__Stores and Maintenance Intern / Coop Student__ \
+Canadian Niagara Power, Ontario, Canada
+- Stock management using SAP
+- Building and yard maintenance
+- Independent and collaborative work
+
+`March 2019 - January 2022`
+__Line Cook, Customer Service__ \
+McDonalds, Ontario, Canada
+- Customer service
+- Communication skills
+- Working as a team towards common goals
+
+`May 2018 - September 2018`
+__IT Intern / Coop Student__ \
+Canadian Niagara Power, Ontario, Canada
+- Computer maintenance and deployment
+- Preparing server backup tapes
+
+`June 2015 - September 2017`
+__Dishwasher, Line Cook__ \
+Hard Rock Cafe, Ontario, Canada
+- Working and collaborating with team members
+- Communication skills
+- Working in a stressful and time sensitive environment
 
 
 ## Awards and Honours
@@ -138,7 +193,7 @@ Barak Shoshany and Jared Wogan \
 `September 2021 - April 2022`
 __PyOGRe__ \
 Undergraduate Thesis, Brock University \
-Advisor: Professor Barak Shoshany
+Advisor: Professor Barak Shoshany \
 
 - A Python Object-Oriented General Relativity package
     - Adaptation of the Mathematica package OGRe
@@ -146,7 +201,7 @@ Advisor: Professor Barak Shoshany
 `April 2021 - September 2021`
 __Wormhole Time Machines and Multiple Histories__ \
 Match of Minds, Brock University \
-Advisor: Professor Barak Shoshany
+Advisor: Professor Barak Shoshany \
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
@@ -172,13 +227,12 @@ Brock University, Ontario, Canada
 `January 2020 - Present`
 __Private Tutor__ \
 Independent, Ontario, Canada \
-High School Mathematics
-
+High School and First Year Mathematics \
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
 
 `2020`
-__Independant Peer Tutor__ \
+__Independent Peer Tutor__ \
 Brock University
 - Organized and taught a student study group for Electromagnetism
 - Held review and one-on-one sessions with students in need of assistance
@@ -232,36 +286,6 @@ __Jack.org__ \
 University of Guelph
 - Mental health awareness movement
 - Volunteered and participated in regular events throughout school terms
-
-
-## Work Experience
-
-`May 2022 - September 2022`
-__Stores and Maintenance Intern / Coop Student__ \
-Candian Niagara Power, Ontario, Canada
-- Stock management using SAP
-- Building and yard maintenance
-- Independant and collaborative work
-
-`March 2019 - January 2022`
-__Line Cook, Customer Service__ \
-McDonalds, Ontario, Canada
-- Customer service
-- Communication skills
-- Working as a team towards common goals
-
-`May 2018 - September 2018`
-__IT Intern / Coop Student__ \
-Candian Niagara Power, Ontario, Canada
-- Computer maintenance and deployment
-- Preparing server backup tapes
-
-`June 2015 - September 2017`
-__Dishwasher, Line Cook__ \
-Hard Rock Cafe, Ontario, Canada
-- Working and collaborating with team members
-- Communication skills
-- Working in a stressful and time sensitive environment
 
 
 ## Hobbies
