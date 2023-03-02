@@ -43,10 +43,10 @@ I am a Master's student at the University of Western Ontario, studying physics w
 `2022 - Present`
 __M.Sc in Physics, Scientific Computing Specialization__ \
 Western University \
-Teaching assistant for: \
+Teaching assistant for:
 - First year physics labs
 - First year linear algebra
-Experience teaching and working one-on-one with students \
+Experience teaching and working one-on-one with students
 
 
 `June 2022 - September 2022`
@@ -193,7 +193,7 @@ Barak Shoshany and Jared Wogan \
 `September 2021 - April 2022`
 __PyOGRe__ \
 Undergraduate Thesis, Brock University \
-Advisor: Professor Barak Shoshany \
+Advisor: Professor Barak Shoshany
 
 - A Python Object-Oriented General Relativity package
     - Adaptation of the Mathematica package OGRe
@@ -201,7 +201,7 @@ Advisor: Professor Barak Shoshany \
 `April 2021 - September 2021`
 __Wormhole Time Machines and Multiple Histories__ \
 Match of Minds, Brock University \
-Advisor: Professor Barak Shoshany \
+Advisor: Professor Barak Shoshany
 - Studying Time Travel Paradoxes and Causality
     - Created a simulation of paradoxes within Mathematica
     - Updated existing paradox model to use temperature instead of colours for the particles
@@ -227,7 +227,7 @@ Brock University, Ontario, Canada
 `January 2020 - Present`
 __Private Tutor__ \
 Independent, Ontario, Canada \
-High School and First Year Mathematics \
+High School and First Year Mathematics
 - Teaching skills
 - Learning to communicate thoughts and ideas effectively
 
