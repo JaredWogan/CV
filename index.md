@@ -75,6 +75,11 @@ Grade 12 average of 94.3%
 
 ## Certifications
 
+`March 2023`
+__Introduction to Data Science__ \
+Cisco \
+[Badge](https://www.credly.com/badges/cfdd656c-1dc4-4a38-87e2-f9af8aafbb4f/public_url)
+
 `February 2023`
 __Data Science Orientation__ \
 Coursera \
