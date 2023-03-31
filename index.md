@@ -129,7 +129,7 @@ Canadian Niagara Power, Ontario, Canada
 
 `April 2023 - Present`
 __MCAT Physics Tutor__ \
-The Princeton Review \
+The Princeton Review
 - Teaching and tutoring students in physics
 - Working with students to improve their understanding of physics concepts
 - Teacher training and development
