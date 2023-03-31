@@ -10,6 +10,8 @@ Master's Student at the University of Western Ontario
      |
     <a href="https://jaredwogan.ca">Jaredwogan.ca</a>
      |
+    <a href="https://github.com/JaredWogan">Github</a>
+     |
      <a href="https://jaredwogan.ca/CV/JaredWoganCV.pdf">View as PDF</a>
 </div>
 
@@ -18,8 +20,8 @@ Master's Student at the University of Western Ontario
 - [Jared Wogan](#jared-wogan)
   - [Table of Contents](#table-of-contents)
   - [Research \\ Interests](#research--interests)
-  - [Education](#education)
   - [Certifications](#certifications)
+  - [Education](#education)
   - [Work Experience](#work-experience)
   - [Awards and Honours](#awards-and-honours)
   - [Publications](#publications)
@@ -38,42 +40,12 @@ Master's Student at the University of Western Ontario
 I am a Master's student at the University of Western Ontario, studying physics with a scientific computing specialization. I have written a Python package for general relativity, OGRePy, and a research project on wormhole time machines and multiple histories. I am passionate about cryptography and cyber security, data science, high performance computing, and software development. I am currently looking for a co-op position in 2023.
 
 
-## Education
-
-`2022 - Present`
-__M.Sc in Physics, Scientific Computing Specialization__ \
-Western University \
-Teaching assistant for:
-- First year physics labs
-- First year linear algebra
-Experience teaching and working one-on-one with students
-
-
-`June 2022 - September 2022`
-__Compute Ontario Summer School__ \
-Compute Ontario \
-Courses on:
-- Data Visualization
-- Machine Learning
-- High Performance Python
-- GPU Programming
-- C/C++, MPI, and OpenMP
-
-`2017 - 2022`
-__B.Sc in Physics (Honours), Minor in Mathematics__ \
-Brock University, University of Guelph \
-Cumulative average of 84% (3.7 GPA on 4 point scale) \
-Major average of 92% (4.0 GPA on 4 point scale)\
-Upper level course average of 93% (4.0 GPA on 4 point scale)
-
-`2013 - 2017`
-__Ontario Secondary School Diploma__ \
-Welland Centennial Secondary School \
-French immersion \
-Grade 12 average of 94.3%
-
-
 ## Certifications
+
+`March 2023`
+__Introduction to Cybersecurity__ \
+Cisco \
+*In progress*
 
 `March 2023`
 __Introduction to Data Science__ \
@@ -106,7 +78,47 @@ Microsoft \
 [Badge](https://www.credly.com/badges/ffe2eea4-cbd7-4c7f-9be6-c28f3b24811a/public_url)
 
 
+## Education
+
+`June 2022 - September 2022`
+__Compute Ontario Summer School__ \
+Compute Ontario \
+Courses on:
+- Data Visualization
+- Machine Learning
+- High Performance Python
+- GPU Programming
+- C/C++, MPI, and OpenMP
+
+`2022 - Present`
+__M.Sc in Physics, Scientific Computing Specialization__ \
+Western University \
+Teaching assistant for:
+- First year physics labs
+- First year linear algebra
+Experience teaching and working one-on-one with students
+
+`2017 - 2022`
+__B.Sc in Physics (Honours), Minor in Mathematics__ \
+Brock University, University of Guelph \
+Cumulative average of 84% (3.7 GPA on 4 point scale) \
+Major average of 92% (4.0 GPA on 4 point scale)\
+Upper level course average of 93% (4.0 GPA on 4 point scale)
+
+`2013 - 2017`
+__Ontario Secondary School Diploma__ \
+Welland Centennial Secondary School \
+French immersion \
+Grade 12 average of 94.3%
+
+
 ## Work Experience
+
+`May 2018 - September 2018`
+__IT Intern / Coop Student__ \
+Canadian Niagara Power, Ontario, Canada
+- Computer maintenance and deployment
+- Preparing server backup tapes
 
 `May 2022 - September 2022`
 __Stores and Maintenance Intern / Coop Student__ \
@@ -115,18 +127,19 @@ Canadian Niagara Power, Ontario, Canada
 - Building and yard maintenance
 - Independent and collaborative work
 
+`April 2023 - Present`
+__MCAT Physics Tutor__ \
+The Princeton Review \
+- Teaching and tutoring students in physics
+- Working with students to improve their understanding of physics concepts
+- Teacher training and development
+
 `March 2019 - January 2022`
 __Line Cook, Customer Service__ \
 McDonalds, Ontario, Canada
 - Customer service
 - Communication skills
 - Working as a team towards common goals
-
-`May 2018 - September 2018`
-__IT Intern / Coop Student__ \
-Canadian Niagara Power, Ontario, Canada
-- Computer maintenance and deployment
-- Preparing server backup tapes
 
 `June 2015 - September 2017`
 __Dishwasher, Line Cook__ \
@@ -252,29 +265,29 @@ Welland Centennial Secondary School
 
 ## Relevant Coursework
 
+__Computer Science:__ Data Visualization, Data Structures, Algorithms, Machine Learning, Data Science, MPI, GPU Programming, Distributed Systems, Cybersecurity, Object Oriented Programming, Functional Programming
+
 __Physics:__ Classical Mechanics, Electromagnetism, Quantum Mechanics, Statistical Mechanics and Thermal Physics, Optics, General & Special Relativity
 
 __Mathematics:__ Calculus, Differential Equations, Linear Algebra, Statistics, Complex & Real Analysis, Differential Geometry
 
-__Computer Science:__ Data Visualization, Data Structures, Algorithms, Machine Learning, Data Science, MPI, GPU Programming, Distributed Systems, Cybersecurity, Object Oriented Programming, Functional Programming
-
 
 ## Skills
 
-__Programming Languages:__ Python, C++, Physica, Javascript, Markdown, HTML, CSS
+__Programming Languages:__ Python, C/C++, Julia, Rust, Physica, Javascript, Markdown, HTML, CSS
 
 __Operating Systems:__ Mac OS, Linux, Windows
 
 __Software:__ Git, Mathematica, Maple, LaTeX
 
-__Languages:__ English, French
+__Languages:__ English (Fluent), French (Intermediate), Chinese (Beginner)
 
 __Personal Skills:__ Passionate, Hard Working, Collaborative, Time Management, Organization, Planning, Leadership, Curious
 
 
 ## Extracurricular Activities
 
-`2021 - Present`
+`September 2021 - January 2023`
 __Discord Maintainer__ \
 Brock University Physics Discord
 - Created and maintain the (unofficial) University Physics Discord
