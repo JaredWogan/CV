@@ -45,7 +45,7 @@ I am a Master's student at the University of Western Ontario, studying physics w
 `March 2023`
 __Introduction to Cybersecurity__ \
 Cisco \
-*In progress*
+[Badge](https://www.credly.com/badges/3c134140-97b7-4f6c-9494-dada04034d4d/public_url)
 
 `March 2023`
 __Introduction to Data Science__ \
