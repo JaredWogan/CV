@@ -94,7 +94,7 @@ Microsoft \
 __Compute Ontario Summer School__ \
 Compute Ontario \
 Courses on:
-- Data Preperation
+- Data Preparation
 - Data Security and Secure Data Sharing
 - Machine Learning
 - High Performance Julia
