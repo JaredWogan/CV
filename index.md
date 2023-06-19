@@ -43,12 +43,12 @@ I am a Master's student at the University of Western Ontario, studying physics w
 ## Certifications
 
 `In progress`
-__Cybersecurity Modules__
+__Cybersecurity Modules__ \
 Cyber Security Ontario \
 [WIP](https://cybersecurityontario.ca/index.php?sesskey=FaEUD2hHS7)
 
 `In progress`
-__Microsoft Certified: Azure Security Engineer Associate__
+__Microsoft Certified: Azure Security Engineer Associate__ \
 Microsoft \
 [WIP](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
 
