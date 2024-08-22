@@ -37,7 +37,7 @@ Master's Student at the University of Western Ontario
 
 ## Research \ Interests
 
-I am a Master's student at the University of Western Ontario, studying physics with a scientific computing specialization. I have written a Python package for general relativity, OGRePy, and a research project on wormhole time machines and multiple histories. I am passionate about cryptography and cyber security, data science, high performance computing, and software development. I am currently looking for a co-op position in 2023.
+I am a Master's student at the University of Western Ontario, studying physics with a scientific computing specialization. I have written a Python package for general relativity, RelativiPy, and a research project on wormhole time machines and multiple histories. I am passionate about cryptography and cyber security, data science, high performance computing, and software development. I am currently looking for a co-op position in 2023.
 
 
 ## Certifications
@@ -230,12 +230,11 @@ Barak Shoshany and Jared Wogan \
 ## Research Experiences
 
 `September 2021 - April 2022`
-__PyOGRe__ \
+__RelativiPy__ \
 Undergraduate Thesis, Brock University \
 Advisor: Professor Barak Shoshany
 
 - A Python Object-Oriented General Relativity package
-    - Adaptation of the Mathematica package OGRe
 
 `April 2021 - September 2021`
 __Wormhole Time Machines and Multiple Histories__ \
@@ -251,7 +250,7 @@ Advisor: Professor Barak Shoshany
 `June 6, 2022 - June 10, 2022`
 __The Quantum Information Structure of Spacetime__ \
 Western University
-PyOGRe: A Python Object-Oriented General Relativity package
+RelativiPy: A Python Object-Oriented General Relativity package
 
 
 ## Media Appearances
